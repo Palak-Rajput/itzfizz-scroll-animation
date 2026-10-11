@@ -7,7 +7,7 @@
 ---
 
 ## 🌟 Live Demo & Repository
-- **Live Demo Link:** `https://<YOUR-GITHUB-USERNAME>.github.io/<YOUR-REPO-NAME>/`
+- **Live Demo Link:** `https://itzfizz-scroll-animation-kappa.vercel.app/`
 - **GitHub Repository Link:** `https://github.com/Palak-Rajput/itzfizz-scroll-animation`
 
 ---
