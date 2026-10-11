@@ -1,10 +1,5 @@
 # 🏎️ ITZFIZZ Digital // Scroll-Driven Hero Section Animation
 
-[![Assignment Status](https://img.shields.io/badge/Status-Completed-success?style=for-the-badge)](https://github.com/)
-[![Built With](https://img.shields.io/badge/Built%20With-GSAP%203%20%2B%20Vanilla%20JS-FF7300?style=for-the-badge)](https://greensock.com/gsap/)
-[![Candidate](https://img.shields.io/badge/Candidate-Palak%20Rajput-00F0FF?style=for-the-badge)](mailto:palakrajput8170@gmail.com)
-[![Role](https://img.shields.io/badge/Internship-Web%20Development%20(6%20Months)-DEF54F?style=for-the-badge)](https://itzfizz.com/)
-
 > **Submission for Itzfizz Digital Web Development Internship Evaluation (6 Months)**  
 > **Candidate:** Palak Rajput ([palakrajput8170@gmail.com](mailto:palakrajput8170@gmail.com))  
 > **Reference Inspiration:** [paraschaturvedi.github.io/car-scroll-animation](https://paraschaturvedi.github.io/car-scroll-animation)
