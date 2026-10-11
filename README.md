@@ -77,7 +77,7 @@ This project is an advanced, production-grade recreation of the scroll-driven he
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/<YOUR-USERNAME>/itzfizz-scroll-animation.git
+   git clone https://github.com/Palak-Rajput/itzfizz-scroll-animation.git
    cd itzfizz-scroll-animation
    ```
 
@@ -93,32 +93,6 @@ This project is an advanced, production-grade recreation of the scroll-driven he
    - Or simply open `index.html` in any modern web browser.
 
 ---
-
-## 🌐 How to Deploy to GitHub Pages in 60 Seconds
-
-1. **Initialize Git and commit:**
-   ```bash
-   git init
-   git add .
-   git commit -m "feat: complete itzfizz scroll-driven hero section animation"
-   ```
-
-2. **Create a new repository on [GitHub](https://github.com/new)** named `itzfizz-scroll-animation`.
-
-3. **Push your code to GitHub:**
-   ```bash
-   git remote add origin https://github.com/<YOUR-USERNAME>/itzfizz-scroll-animation.git
-   git branch -M main
-   git push -u origin main
-   ```
-
-4. **Enable GitHub Pages:**
-   - Go to your repository on GitHub.
-   - Click **Settings** ➔ **Pages** (under Code and automation).
-   - Under **Build and deployment** ➔ **Source**, select **Deploy from a branch**.
-   - Choose Branch: `main` and Folder: `/ (root)`, then click **Save**.
-   - In 1-2 minutes, your live webpage will be published at:  
-     `https://<YOUR-USERNAME>.github.io/itzfizz-scroll-animation/`
 
 ---
 
