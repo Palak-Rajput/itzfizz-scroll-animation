@@ -13,7 +13,7 @@
 
 ## 🌟 Live Demo & Repository
 - **Live Demo Link:** `https://<YOUR-GITHUB-USERNAME>.github.io/<YOUR-REPO-NAME>/`
-- **GitHub Repository Link:** `https://github.com/<YOUR-GITHUB-USERNAME>/<YOUR-REPO-NAME>`
+- **GitHub Repository Link:** `https://github.com/Palak-Rajput/itzfizz-scroll-animation`
 
 ---
 
